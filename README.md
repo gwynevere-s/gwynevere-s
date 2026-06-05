@@ -1,3 +1,6 @@
+
+<img width="1200" height="398" alt="image" src="https://github.com/user-attachments/assets/184ab9ce-3a0b-4717-85b5-815eba39e31c" />
+
 # Hi, I'm Salma 👋
 
 Software Engineering Student passionate about building useful software and solving real-world problems.
